@@ -1,8 +1,9 @@
-Myanmar Unicode Testing in Ruby 2.0
-===================================
+Myanmar Unicode Testing in Ruby 1.9.3 or 2.0
+============================================
 
-You need to have Ruby 2.0 installed
-Check [How to Install Ruby 2.0 with RVM](https://www.google.com/search?q=install%20ruby%202.0)
+Thanks to this amazing [maginc_encoding](https://github.com/m-ryan/magic_encoding) gem, it's working perfectly with `ruby-1.9.3-p362` .
+
+It works nicely for `ruby-2.0.0-p0 [ x86_64 ]` too.
 
 For Ubuntu/ OS X, you can just run
 `ruby unicode.rb`
