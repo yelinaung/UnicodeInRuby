@@ -4,10 +4,10 @@ Myanmar Unicode Testing in Ruby 2.0
 You need to have Ruby 2.0 installed
 Check [How to Install Ruby 2.0 with RVM](https://www.google.com/search?q=install%20ruby%202.0)
 
-For Ubunut/OS X, you can just run
-`ruby unicode.rb'
+For Ubuntu/ OS X, you can just run
+`ruby unicode.rb`
 
-Credits to [Ko Ei Mg](https://www.facebook.com/ei.mung) for the idea.
+Credits to [Ko Ei Mg](https://www.facebook.com/ei.mung) for the [idea](https://www.facebook.com/photo.php?fbid=10151614605077328&set=a.445551197327.239848.564487327&type=1).
 
 Check out the screenshot
 
