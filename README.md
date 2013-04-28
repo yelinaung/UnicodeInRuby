@@ -1,5 +1,9 @@
-Myanmar Unicode Testing in Ruby 1.9.3 or 2.0
+Myanmar Unicode Testing in Ruby 1.9.3 and 2.0
 ============================================
+
+The main purpose is to make the code as burmese as possible and
+beautiful. To be able to replace the Keyword such as require, if , else, def, end
+we will need to re-compile Ruby interpreter.
 
 Thanks to this amazing [maginc_encoding](https://github.com/m-ryan/magic_encoding) gem, it's working perfectly with `ruby-1.9.3-p362` .
 
@@ -12,4 +16,4 @@ Credits to [Ko Ei Mg](https://www.facebook.com/ei.mung) for the [idea](https://w
 
 Check out the screenshot
 
-![Ruby unicode](https://dl.dropboxusercontent.com/u/2709123/ruby-uni.png "Unicode test in Ruby")
+![Alt text](http://monosnap.com/image/xxLAYt4u0bl6DsqL7Le68rXP5.png "Unicode test in Ruby")
