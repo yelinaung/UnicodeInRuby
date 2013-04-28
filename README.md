@@ -16,4 +16,4 @@ Credits to [Ko Ei Mg](https://www.facebook.com/ei.mung) for the [idea](https://w
 
 Check out the screenshot
 
-![Alt text](http://monosnap.com/image/xxLAYt4u0bl6DsqL7Le68rXP5.png "Unicode test in Ruby")
+![Ruby unicode](https://dl.dropboxusercontent.com/u/2709123/rb.png "Unicode test in Ruby")
