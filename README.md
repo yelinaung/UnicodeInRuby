@@ -1,4 +1,4 @@
-Myanmar Unicode Testing in Ruby 1.9.3 and 2.0
+Myanmar Unicode Testing in Ruby 1.9.3 and 2.0 [![Build Status](https://travis-ci.org/yelinaung/UnicodeInRuby.png?branch=master)](https://travis-ci.org/yelinaung/UnicodeInRuby)
 ============================================
 
 The main purpose is to make the code as burmese as possible and
